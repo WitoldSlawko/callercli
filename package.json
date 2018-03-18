@@ -1,6 +1,6 @@
 {
   "name": "callercli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "callercli - is a Node CLI for downloading content and ajax calling",
   "main": "index.js",
   "scripts": {
