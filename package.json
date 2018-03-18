@@ -1,14 +1,24 @@
 {
   "name": "requestcli",
   "version": "1.0.0",
-  "description": "",
+  "description": "requestcli - is a Node CLI for downloading content and ajax calling",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WitoldSlawko/requestcli.git"
+  },
+  "author": "Witold Slawko",
   "license": "ISC",
+  "bin": {
+    "requestcli": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/WitoldSlawko/requestcli/issues"
+  },
+  "homepage": "https://github.com/WitoldSlawko/requestcli/issues#issues",
   "dependencies": {
     "opn": "^5.3.0",
     "request": "^2.85.0",
