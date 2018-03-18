@@ -1,0 +1,17 @@
+{
+  "name": "requestcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "opn": "^5.3.0",
+    "request": "^2.85.0",
+    "youtube-dl": "^1.12.2"
+  }
+}
