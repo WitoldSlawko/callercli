@@ -1,24 +1,24 @@
 {
-  "name": "requestcli",
+  "name": "callercli",
   "version": "1.0.0",
-  "description": "requestcli - is a Node CLI for downloading content and ajax calling",
+  "description": "callercli - is a Node CLI for downloading content and ajax calling",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WitoldSlawko/requestcli.git"
+    "url": "git+https://github.com/WitoldSlawko/callercli.git"
   },
   "author": "Witold Slawko",
   "license": "ISC",
   "bin": {
-    "requestcli": "./index.js"
+    "callercli": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/WitoldSlawko/requestcli/issues"
+    "url": "https://github.com/WitoldSlawko/callercli/issues"
   },
-  "homepage": "https://github.com/WitoldSlawko/requestcli/issues#issues",
+  "homepage": "https://github.com/WitoldSlawko/callercli/issues#issues",
   "dependencies": {
     "opn": "^5.3.0",
     "request": "^2.85.0",
