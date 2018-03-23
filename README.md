@@ -5,7 +5,7 @@ https://www.npmjs.com/package/callercli
 
 ``` npm install -g callercli ```
 <br>
-``` $ caller help ``` <br>
-``` $ caller <method> <url> <object<?>> ``` <br>
-``` $ caller youtube <url from youtube> ``` <br>
-``` $ caller download <url> ``` <br>
+``` $ callercli help ``` <br>
+``` $ callercli <method> <url> <object<?>> ``` <br>
+``` $ callercli youtube <url from youtube> ``` <br>
+``` $ callercli download <url> ``` <br>

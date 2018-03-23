@@ -10,10 +10,10 @@ var emitter = new EventEmitter();
 
 emitter.on('help', function(){
     console.log('Provide one of following :')
-    console.log ('$ caller help');
-    console.log ('$ caller <method> <url> <object<?>>');
-    console.log ('$ caller youtube <url from youtube>');
-    console.log ('$ caller download <url>');
+    console.log ('$ callercli help');
+    console.log ('$ callercli <method> <url> <object<?>>');
+    console.log ('$ callercli youtube <url from youtube>');
+    console.log ('$ callercli download <url>');
 });
 
 emitter.on('youtube', function(){
